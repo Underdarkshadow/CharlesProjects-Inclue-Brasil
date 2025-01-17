@@ -9,5 +9,5 @@
 
 -------
 
-# CharlesProjects-Projeto Brasileiro de Inclusão Digital
+# CharlesProjects-Projeto Brasileiro de Inclusão Social Digital
 Meu projeto do desafio CAIXA – Criando Impacto Social com IA, Projeto Inclusão Digital e Agilidade no Cadastro Biômétrico com IA
