@@ -10,5 +10,3 @@
 -------
 <h1 align="center">Projeto Brasileiro de Inclusão Social Digital</h1>
 <p align="center">Meu projeto do desafio CAIXA – Criando Impacto Social com IA, Projeto Inclusão Digital e Agilidade no Cadastro Biômétrico com IA</p>
-# Projeto Brasileiro de Inclusão Social Digital
-Meu projeto do desafio CAIXA – Criando Impacto Social com IA, Projeto Inclusão Digital e Agilidade no Cadastro Biômétrico com IA
