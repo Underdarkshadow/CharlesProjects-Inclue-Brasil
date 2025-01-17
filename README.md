@@ -16,7 +16,9 @@
 </p>
 
 -------
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/cfa13702-fda4-4b2b-bd58-d8ed6a2cbe08" alt="image">
+</p>
 <h1 align="center">Projeto Brasileiro de Inclusão Social Digital</h1>
 <p align="center">Meu projeto do desafio CAIXA – Criando Impacto Social com IA, Projeto Inclusão Digital e Agilidade no Cadastro Biômétrico com IA</p>
 
@@ -69,6 +71,7 @@ Desenvolver um sistema baseado em inteligência artificial que permita o cadastr
 
 📂 Submissão Desafio CAIXA - Criando Impacto Social com IA
 Chegou a hora de mostrar todo o seu talento e inovação! Submeta o seu projeto do desafio CAIXA – Criando Impacto Social com IA no formulário abaixo e garanta a chance de receber feedback ao vivo do time da CAIXA durante a live especial que acontecerá no dia 28/01 às 19:00.
+##
 📂 Sobre o Projeto
 Os projetos serão reconhecidos pela originalidade na aplicação prática das ideias, pela qualidade da apresentação, incluindo um artigo bem elaborado, descrição clara e design atrativo, e pelo potencial impacto na comunidade. A ideia não precisa ter sido aplicada de forma real, porém olharemos a sua capacidade de criar soluções inovadoras e que gerem impacto genuíno.
 
