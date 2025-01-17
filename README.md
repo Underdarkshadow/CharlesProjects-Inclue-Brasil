@@ -19,14 +19,14 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/cfa13702-fda4-4b2b-bd58-d8ed6a2cbe08" alt="image">
 </p>
-<h1 align="center">Projeto Brasileiro de Inclusão Social Digital</h1>
+<h1 align="center">Projeto Brasileiro de Inclusão Social Digital: Impacto e Inovação com Inteligência Artificial</h1>
 <p align="center">Meu projeto do desafio CAIXA – Criando Impacto Social com IA, Projeto Inclusão Digital e Agilidade no Cadastro Biômétrico com IA</p>
 
 > ℹ️ **NOTA:** Este é o repositório final desenvolvido durante o curso no qual fui Aluno na Plataforma <a href="https://dio.me/"><img src="https://img.shields.io/badge/DIO-Course-28DA77?logo=youtube" alt="DIO - course"></a>
-
+-------
 Objetivo do Projeto
 Desenvolver um sistema baseado em inteligência artificial que permita o cadastro biômétrico remoto para populações carentes dependentes de auxílios sociais, utilizando sensores de reconhecimento biométrico de celulares📱 e 🖼️fotos.
-
+-------
 
 <a href="https://github.com/Underdarkshadow/prompts-recipe-to-create-a-ebook/blob/main/E-book%20Template%20Avenger%20copy.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
