@@ -40,17 +40,16 @@ Desenvolver um sistema baseado em inteligência artificial que permita o cadastr
 | :------: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |  Objetivo   | Desenvolver um sistema baseado em inteligência artificial que permita o cadastro biômétrico remoto para populações carentes dependentes de auxílios sociais, utilizando sensores de reconhecimento biométrico de celulares e fotos. O sistema busca:1.	Ampliar a acessibilidade ao cadastro biômétrico.2.	Agilizar os processos de autenticação e identificação de clientes.3.	Reduzir custos operacionais e impactos ambientais.4.	Mitigar riscos de fraudes através do cruzamento de dados biométricos com bases existentes, como a do TRE. |
 | Público-Alvo | Populações em situação de vulnerabilidade social que dependem de auxílios como Bolsa Família, INSS, e Seguro Defeso, especialmente em regiões remotas e interiores onde o acesso às agências é limitado. |
-| Problemas Identificados | 1.	Dificuldade de acesso: Muitos beneficiários precisam se deslocar para agências da CAIXA para realizar o cadastro biômétrico. 2.	Altos custos operacionais: Emissão de cartões e atendimento presencial aumentam despesas para a CAIXA.
-3.	Impactos ambientais: Uso de materiais para cartões e logística de entrega contribuem para emissões de carbono. 4.	Fraudes: Processos de identificação não integrados aumentam vulnerabilidades. |
-| Proposta de Solução | Criar um sistema inteligente que 1.	Captura de dados biométricos remota Permitindo que os clientes utilizem seus próprios smartphones para capturar impressões digitais e imagens faciais. 2. Integração com bases de dados existentes Utilizando a base de dados do TRE para validação de informações biométricas e de imagem. 3. Segurança aprimorada possibilidade de implantar algoritmos de IA para detecção de fraudes, garantindo que os dados capturados sejam autênticos. 4. Redução de emissões desnecessárias de várias vias de cartões substituindo cartões físicos por autenticação biométrica direta para saques e transações digitais. 5. Economia de recursos públicos e Ambientais Reduza custos operacionais e logísticos ao reduzir emissão e reemissão de cartões de plástico e o custo envolvido em sua confecção desonerar agências bancárias e correspondentes lotéricos do interior e reduzir os custos com os serviços dos Correios. |
+| Problemas Identificados | 1.	Dificuldade de acesso: Muitos beneficiários precisam se deslocar para agências da CAIXA para realizar o cadastro biômétrico. 2.	Altos custos operacionais: Emissão de cartões e atendimento presencial aumentam despesas para a CAIXA. 3.	Impactos ambientais: Uso de materiais para cartões e logística de entrega contribuem para emissões de carbono. 4.	Fraudes: Processos de identificação não integrados aumentam vulnerabilidades. |
+| Proposta de Solução | Criar um sistema inteligente que 1.	Captura de dados biométricos remota Permitindo que os clientes utilizem seus próprios smartphones para capturar impressões digitais e imagens faciais. 2. Integração com bases de dados existentes Utilizando a base de dados do TRE para validação de informações biométricas e de imagem. 3. Segurança aprimorada possibilidade de implantar algoritmos de IA para detecção de fraudes, garantindo que os dados capturados sejam autênticos. 4. Redução de emissões desnecessárias de várias vias de cartões substituindo cartões físicos por autenticação biométrica direta para saques e transações digitais. 5. Economia de recursos 💰 públicos e 🌳 Ambientais Reduza custos operacionais e logísticos ao reduzir emissão e reemissão de cartões de plástico e o custo envolvido em sua confecção desonerar agências bancárias e correspondentes lotéricos do interior e reduzir os custos com os serviços dos Correios. |
 
 
 
-LeonardoAI：
+## 💡 Objetivos do Projeto 💡
 
-|  Ação  | prompt                                                                                 |
+|  Ação  | desafios |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | Crie uma imagem hiper-realista de um celular, atrás dele uma Floresta e um rio da Amazônia o um indígena da Amazônia está sorrindo e exibe o celular com a imagem de um aplicativo chamado Inclui Brasil|
+| Impacto Social e Ambiental | 1. Inclusão digital facilitando o acesso aos benefícios para populações de baixa renda e aumentando o alcance. 2. Redução de deslocamentos evitando gastos e dificuldades de transporte das populações mais carentes para agências ou mesmo que essa população necessite ir a mesma terá tempo de atendimento reduzido por já possuir cadastro Biométrico desonerando as unidades Caixa e lotéricos e reduzindo tempo de atendimento nas agências, redução na impressão de papel nas unidades caixa. 3. Sustentabilidade na diminuição do uso de materiais para cartões e logística de entrega. 4. Confiabilidade na melhora da segurança das transações e combate fraudes nos auxílios sociais. |
 
 
 
@@ -66,7 +65,7 @@ LeonardoAI：
 - Imagens utilizadas em `assets`
 - ebook gerado durante as aulas em `output`
 
-## 🛠️ Instruções de execução
+## 🛠️ Instruções para execução do Projeto
 
 📂 Submissão Desafio CAIXA - Criando Impacto Social com IA
 Chegou a hora de mostrar todo o seu talento e inovação! Submeta o seu projeto do desafio CAIXA – Criando Impacto Social com IA no formulário abaixo e garanta a chance de receber feedback ao vivo do time da CAIXA durante a live especial que acontecerá no dia 28/01 às 19:00.
