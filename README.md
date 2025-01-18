@@ -17,7 +17,7 @@
 
 -------
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/cfa13702-fda4-4b2b-bd58-d8ed6a2cbe08" alt="image">
+  <img src="https://github.com/user-attachments/assets/e519e153-59dc-4051-a4ca-660b7c35bbfa" alt="image">
 </p>
 <h1 align="center">Projeto Brasileiro de Inclusão Social Digital: Impacto e Inovação com Inteligência Artificial</h1>
 <p align="center">Meu projeto do desafio CAIXA – Criando Impacto Social com IA, Projeto Inclusão Digital e Agilidade no Cadastro Biômétrico com IA</p>
