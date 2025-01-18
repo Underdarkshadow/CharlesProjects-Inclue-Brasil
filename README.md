@@ -28,7 +28,9 @@ Objetivo do Projeto
 Desenvolver um sistema baseado em inteligência artificial que permita o cadastro biômétrico remoto para populações carentes dependentes de auxílios sociais, utilizando sensores de reconhecimento biométrico de celulares📱 e 🖼️fotos.
 -------
 
-<a href="/assets/E-book-INCLUE-BRASIL.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<img src="/assets/REVISTACAPA.JPG" width="100">
+<a href="/assets/E-book-INCLUE-BRASIL.pdf" title="View PDF now"> 📕Clique aqui para ler o EBOOK</a>
+
 
 ## 💻 Tecnologias utilizadas no projeto
 
