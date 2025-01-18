@@ -33,6 +33,7 @@ Desenvolver um sistema baseado em inteligência artificial que permita o cadastr
 <a href="/assets/E-book-INCLUE-BRASIL.pdf" title="View PDF now"> 📕Clique aqui para ler o E-BOOK Exclusivo</a>
 <p>🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀</p>
 
+<a href="/assets/codequestFAVELANEURAL.MP3" title="View PDF now"> 🎸⋆⭒˚｡⋆Clique aqui para ouvir PodCast Exclusivo FAVELA NEURAL⋆.˚✮🎧✮˚.⋆ </a>
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/)
